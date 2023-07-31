@@ -1,0 +1,42 @@
+class AppImages {
+  static const String imagePath = "assets/images";
+
+  static const String logo = "$imagePath/logo.png";
+  static const String loginLogo = "$imagePath/loginlogo.png";
+  static const String whiteRound = "$imagePath/white_round.png";
+  static const String speaker = "$imagePath/speaker.png";
+  static const String google = "$imagePath/google.png";
+  static const String helpCircle = "$imagePath/help_circle.png";
+  static const String bell = "$imagePath/bell.png";
+  static const String home = "$imagePath/home.png";
+  static const String myAds = "$imagePath/myads.png";
+  static const String billing = "$imagePath/invoice.png";
+  static const String user = "$imagePath/user.png";
+  static const String editing = "$imagePath/editing.png";
+  static const String arrowRight = "$imagePath/arrow_right.png";
+  static const String right = "$imagePath/right.png";
+  static const String dott = "$imagePath/dott.png";
+  static const String pause = "$imagePath/pause.png";
+  static const String negative = "$imagePath/negative.png";
+  static const String filter = "$imagePath/filter.png";
+  static const String serach = "$imagePath/serach.png";
+  static const String setting = "$imagePath/settings.png";
+  static const String close = "$imagePath/close.png";
+  static const String pin = "$imagePath/pin.png";
+  static const String google2 = "$imagePath/google2.png";
+  static const String facebook = "$imagePath/facebook.png";
+  static const String linkedin = "$imagePath/linkedin.png";
+  static const String windows = "$imagePath/win.png";
+  static const String tiktok = "$imagePath/tiktok.png";
+  static const String twitter = "$imagePath/twitter.png";
+  static const String map = "$imagePath/map.png";
+  static const String map2 = "$imagePath/map2.png";
+  static const String diamond = "$imagePath/diamond.png";
+  static const String edit = "$imagePath/edit.png";
+  static const String marker = "$imagePath/marker.png";
+  static const String google3 = "$imagePath/google3.png";
+  static const String keywords = "$imagePath/billing.png";
+  static const String emptyBox = "$imagePath/box.png";
+  static const String play = "$imagePath/play.png";
+  static const String thubmnail = "$imagePath/tumbnail.png";
+}

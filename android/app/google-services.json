@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "714791252106",
+    "project_id": "adify-9b833",
+    "storage_bucket": "adify-9b833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714791252106:android:a8f7c76ada3d28705ebd73",
+        "android_client_info": {
+          "package_name": "com.adify.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714791252106-ep72e5hgh567qvpcn8hvtunpvheea9qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7usR1uDqsPiNqtaxbU0zlYHlUl2XBgA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714791252106-ep72e5hgh567qvpcn8hvtunpvheea9qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714791252106:android:31239cae5e14fedc5ebd73",
+        "android_client_info": {
+          "package_name": "com.adify.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714791252106-ep72e5hgh567qvpcn8hvtunpvheea9qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7usR1uDqsPiNqtaxbU0zlYHlUl2XBgA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714791252106-ep72e5hgh567qvpcn8hvtunpvheea9qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714791252106:android:d5eedf4a64604ff45ebd73",
+        "android_client_info": {
+          "package_name": "com.adify.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714791252106-1ei9p6dlbq2on43odeu5mf4hfm00l481.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adify.mobileapp",
+            "certificate_hash": "33e21699b18c50778efc31a874d5178bbec28323"
+          }
+        },
+        {
+          "client_id": "714791252106-ep72e5hgh567qvpcn8hvtunpvheea9qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7usR1uDqsPiNqtaxbU0zlYHlUl2XBgA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714791252106-ep72e5hgh567qvpcn8hvtunpvheea9qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
